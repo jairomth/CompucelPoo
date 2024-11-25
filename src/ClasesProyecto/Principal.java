@@ -23,7 +23,9 @@ public class Principal {
 		String modelo;
 		int existencia;
 		float precio;
-
+		
+		System.out.println("Nuevo mensaje para mostrar en consola.");
+		
 		// Variable del tipo objeto
 		Computadoras computadora = null;
 
